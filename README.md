@@ -18,7 +18,7 @@ Built with Whisper, GPT-4, and real-world driving conditions in mind.
 
 ## 🔗 Demo Links
 
-- 🎞️ **Presentation Slide:** [GrabAI in Action]([https://www.figma.com/design/htp7X4L0R9ar5ds3gtPwn9/GRAB-AI?node-id=0-1&t=AVbyscpNcKrGJVVz-1](https://www.canva.com/design/DAGkY71oEQE/i065LSVzEnXe161WroW_yg/edit?utm_content=DAGkY71oEQE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+- 🎞️ **Presentation Slide:** [GrabAI in Action](https://www.canva.com/design/DAGkY71oEQE/i065LSVzEnXe161WroW_yg/edit?utm_content=DAGkY71oEQE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - 🎨 **Explore the Figma Prototype:** [Interactive Scenario Flow](https://your-figma-link.com)
 
 ---
